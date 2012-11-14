@@ -18,7 +18,7 @@ private:
 	// Screen containing static elements
 	SDL_Surface* _staticScreen;
 
-	// Camera dimensions, typically equal to window dimension
+	// Camera dimensions, equal to window dimension
 	SDL_Rect _camera;
 	SDL_Rect _staticRectSource;
 	SDL_Rect _staticRectDest;
