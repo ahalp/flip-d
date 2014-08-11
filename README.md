@@ -2,6 +2,8 @@
 
 Flip'd is a 2D puzzle platformer I worked on in my spare time in the summer of 2012. It's built using C++ and the SDL library. The premise is to collect all the coins in a level by creating walls and platforms while upside down, and then flipping the map to collect the coins. Coins are randomly placed on the map, and each level gets progressivly larger. 
 
+More info + download avaliable here: www.deepkanwal.com/projects/flipd
+
 ## Resources
 
 The following websites were of great help to me:
